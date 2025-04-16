@@ -1,0 +1,7 @@
+{
+  "name": "idea-hub-backend",
+  "version": "1.0.0",
+  "dependencies": {
+    "mssql": "^9.0.1"
+  }
+}
