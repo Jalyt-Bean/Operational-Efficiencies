@@ -1,0 +1,12 @@
+name: Deploy Idea Hub
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  placeholder:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "We'll fill this in later!"
